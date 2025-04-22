@@ -26,13 +26,8 @@ See the `examples/` folder:
 - `UseInputExample.tsx` — working with one field
 - `UseValidateExample.tsx` — raw validation demo
 
-## 📦 Installation
-```
-npm install
-```
-
-## 📤 Publishing / GitHub
-Push this repo to GitHub or use it locally as a reusable form toolkit.
+## 📤 GitHub usage
+You can push this repo to GitHub and use it locally as a reusable form toolkit.
 
 ## 💬 License
 MIT
