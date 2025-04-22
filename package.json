@@ -1,0 +1,33 @@
+{
+  "name": "react-simple-form-hooks",
+  "version": "1.0.0",
+  "description": "Minimal form hooks for React with validation",
+  "main": "src/hooks/useForm.ts",
+  "types": "src/hooks/useForm.ts",
+  "scripts": {
+    "lint": "eslint src --ext .ts,.tsx",
+    "format": "prettier --write ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_USERNAME/react-simple-form-hooks"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "form",
+    "validation",
+    "typescript"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^7.0.0",
+    "@typescript-eslint/parser": "^7.0.0",
+    "eslint": "^8.0.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-plugin-react": "^7.0.0",
+    "eslint-plugin-react-hooks": "^4.0.0",
+    "prettier": "^3.0.0"
+  }
+}
